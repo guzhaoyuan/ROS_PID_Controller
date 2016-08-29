@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gzy/catkin_ws/src/imu_node/build/devel/setup.sh

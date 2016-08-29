@@ -1,0 +1,4 @@
+<launch>
+  <node name="pid_node1" pkg="pid_node" type="pid" output="screen"/>
+  <node name="imu_node1" pkg="imu_node" type="imu" output="screen"/>
+</launch>
